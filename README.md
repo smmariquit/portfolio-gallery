@@ -3,31 +3,31 @@
 > _**Providing Beautiful Portfolios. ✨**_
 
 <div align="center">
-  <img src="./public/images/readme-banner.png" alt="Portfolio Gallery - Providing Beautiful Portfolios" />
-  <br><br>
-  <p align="left">
-    <strong>100+ stunning portfolio designs with live previews, source code, and professional outcomes.</strong>
-    Transform your online presence with curated portfolio designs that showcase your skills beautifully. Built for developers who demand excellence, designers who prioritize impact, and hiring managers who need to evaluate talent effectively.<br>
-    </br>
-    <em>Every portfolio demonstrates real-world success with live demos and accessible source code. Whether you're building your own portfolio, seeking inspiration, or evaluating talent, our collection provides the professional foundation you need to succeed.</em>
-    </br>
-  </p>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/github/stars/HassanXTech/portfolio-gallery?style=social" alt="GitHub stars" />
+ <img src="./public/images/readme-banner.png" alt="Portfolio Gallery - Providing Beautiful Portfolios" />
+ <br><br>
+ <p align="left">
+ <strong>100+ stunning portfolio designs with live previews, source code, and professional outcomes.</strong>
+ Transform your online presence with curated portfolio designs that showcase your skills beautifully. Built for developers who demand excellence, designers who prioritize impact, and hiring managers who need to evaluate talent effectively.<br>
+ </br>
+ <em>Every portfolio demonstrates real-world success with live demos and accessible source code. If you are building your own portfolio, seeking inspiration, or evaluating talent, our collection provides the professional foundation you need to succeed.</em>
+ </br>
+ </p>
+ <br>
+ <p align="center">
+ <img src="https://img.shields.io/github/stars/HassanXTech/portfolio-gallery?style=social" alt="GitHub stars" />
 <img src="https://img.shields.io/github/forks/HassanXTech/portfolio-gallery?style=social" alt="GitHub forks" />
 <img src="https://img.shields.io/badge/license-MIT-green?style=social" alt="License" />
 <img src="https://img.shields.io/github/last-commit/HassanXTech/portfolio-gallery?style=social" alt="Last commit" />
 <img src="https://img.shields.io/github/issues/HassanXTech/portfolio-gallery?style=social" alt="Issues" />
-    
-  </p>
-  
-  <!-- Peerlist Badge -->
-  <p align="center">
-    <a href="https://peerlist.io/hassantech/project/portfolio-gallery" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Peerlist-Project%20Showcase-00D4AA?style=for-the-badge&logo=peerlist&logoColor=white&labelColor=1F2937" alt="Portfolio Gallery on Peerlist" />
-    </a>
-  </p>
+ 
+ </p>
+ 
+ <!, Peerlist Badge, >
+ <p align="center">
+ <a href="https://peerlist.io/hassantech/project/portfolio-gallery" target="_blank" rel="noreferrer">
+ <img src="https://img.shields.io/badge/Peerlist-Project%20Showcase-00D4AA?style=for-the-badge&logo=peerlist&logoColor=white&labelColor=1F2937" alt="Portfolio Gallery on Peerlist" />
+ </a>
+ </p>
 </div>
 
 ---
@@ -39,7 +39,7 @@
 ![Portfolio Gallery UI - Mobile App Portfolios](./public/images/readme-img-four.png)
 ![Portfolio Gallery UI - Data Science Portfolios](./public/images/readme-img-three.png)
 
-> _**Note: This project showcases real developer portfolios with live previews, source code links, and inspiration for developers and designers.**_  
+> _**Note: This project showcases real developer portfolios with live previews, source code links, and inspiration for developers and designers.**_ 
 > [Learn more about contributing portfolios.](https://github.com/HassanXTech/portfolio-gallery/discussions)
 
 ## Portfolio Gallery in the Wild!!!
@@ -47,7 +47,7 @@
 <p align="left"> 
 Curious where Portfolio Gallery is getting featured, shared, talked about or appreciated? 
 </br>
-Check out this growing list of shoutouts, showcases, and love from the community:  
+Check out this growing list of shoutouts, showcases, and love from the community: 
 </br>
 
 ⚡[**Where Portfolio Gallery is Making Noise??**](https://github.com/HassanXTech/portfolio-gallery/discussions)
@@ -135,14 +135,13 @@ These portfolios are great for:
 ## Screenshots
 
 <div align="center">
-  <img src="./public/snapshots/screenshot-1.png" alt="Portfolio Gallery Homepage - Web Development Portfolios" width="400" />
-  <img src="./public/snapshots/screenshot-2.png" alt="Portfolio Gallery UI/UX Design Category" width="400" />
-  <img src="./public/snapshots/screenshot-3.png" alt="Portfolio Gallery Mobile App Portfolios" width="400" />
-  <img src="./public/snapshots/screenshot-4.png" alt="Portfolio Gallery Search and Filter" width="400" />
-  <img src="./public/snapshots/screenshot-5.png" alt="Portfolio Gallery Dark Theme" width="400" />
-  <img src="./public/snapshots/screenshot-6.png" alt="Portfolio Gallery Portfolio Details" width="400" />
+ <img src="./public/snapshots/screenshot-1.png" alt="Portfolio Gallery Homepage - Web Development Portfolios" width="400" />
+ <img src="./public/snapshots/screenshot-2.png" alt="Portfolio Gallery UI/UX Design Category" width="400" />
+ <img src="./public/snapshots/screenshot-3.png" alt="Portfolio Gallery Mobile App Portfolios" width="400" />
+ <img src="./public/snapshots/screenshot-4.png" alt="Portfolio Gallery Search and Filter" width="400" />
+ <img src="./public/snapshots/screenshot-5.png" alt="Portfolio Gallery Dark Theme" width="400" />
+ <img src="./public/snapshots/screenshot-6.png" alt="Portfolio Gallery Portfolio Details" width="400" />
 </div>
-
 
 ### Portfolio Categories
 
@@ -250,9 +249,9 @@ git checkout -b feature/new-portfolio-name
 1. Commit your changes with descriptive messages
 2. Push to your feature branch
 3. Create a pull request with:
-   - Clear description of the portfolio added
-   - Screenshots or preview of the portfolio
-   - Any special considerations or notes
+ - Clear description of the portfolio added
+ - Screenshots or preview of the portfolio
+ - Any special considerations or notes
 
 ```bash
 git add .
@@ -329,7 +328,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with Next.js and Tailwind CSS
 - Inspired by modern portfolio design patterns
 - Community-driven portfolio collection
-- Powered by Vercel for seamless deployment
+- Powered by Vercel for smooth deployment
 
 ## Support
 
